@@ -1,0 +1,169 @@
+*{
+
+    outline: none;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    height: 300vh;
+}
+
+
+#main-img{
+    margin-top:40px ;
+    position: absolute;
+    height: 601px;
+    width: 502px;
+
+}
+
+#first-container{
+   
+    height: 400px;
+    background-color: #edd5b6;
+  
+}
+
+h3{
+    font-family: 'PT Sans', sans-serif;
+    letter-spacing: 1px;
+    font-size: 1.3em;
+    text-transform: uppercase;
+
+}
+
+#first-container h1{
+    font-size: 3em;
+     font-family: 'Noto Serif', serif;
+
+}
+
+#text-container{
+    padding-top: 100px ;
+    position: relative;
+    left: -50px;
+    background: #f6f6f6;
+}
+
+#father-text-container{
+    background: #f6f6f6;
+}
+
+#two-container h1{
+    font-size: 2.5em;
+    font-family: 'Noto Serif', serif;
+
+}
+
+p{
+    font-family: 'PT Sans', sans-serif;
+}
+
+ a{
+    text-decoration: none !important;
+    font-size: 0.7em;
+    color: black;
+    text-transform: uppercase;
+    font-family: 'PT Sans', sans-serif;
+}
+
+a:hover{
+    transition: color 0.8s linear;
+    color: darkgray;
+}
+
+.button-show-more{
+    padding: 7px 35px !important ;
+    border: 1px solid black !important;
+
+}
+
+#section-two{
+    margin-top: 340px;
+}
+
+#secondary-img{
+    margin-left: -15px;
+    margin-top: -190px;
+    height: 671px;
+    width: 440px;
+    position: absolute;
+}
+
+
+/*three section*/
+
+
+#three-section h1, h4{
+    font-family: 'Noto Serif', serif;
+}
+
+#three-section, #four-section {
+    margin-top: 270px;
+}
+
+#container-img{
+
+    margin-left: -15px;
+    margin-right: 120px;
+    box-shadow: 88px -80px #edd5b6; 
+    height: 415px;
+    
+}
+
+#container-img-2{
+    margin-top: 160px;
+    margin-left: -15px;
+    margin-right: 170px;
+    box-shadow: 190px -110px #edd5b6; 
+    height: 435px;
+    
+}
+
+#container-img-5{
+
+    margin-left: -15px;
+    padding-left: 25px;
+    display: flex;
+    justify-content: center;
+    height: 430px;
+    width: 600px;
+    background-color: #edd5b6;
+    
+}
+
+#container-img-6{
+
+    box-shadow:  #edd5b6; 
+   
+    
+}
+
+#title-products{
+    margin-top: 50px;
+    margin-bottom: 175px;
+}
+
+
+#img-3{
+    height: 530px;
+    width: 590px;
+}
+
+
+#img-5{
+    
+          
+    margin-top: 150px !important;
+    width:500px ;
+    height: 400px;
+    object-fit: cover;
+    object-position: 50% 30% ;
+    
+
+ 
+}
+
+
+
