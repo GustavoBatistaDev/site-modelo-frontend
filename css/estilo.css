@@ -6,7 +6,7 @@
 }
 
 body{
-    height: 300vh;
+    height: 430vh;
 }
 
 
@@ -74,6 +74,7 @@ a:hover{
 }
 
 .button-show-more{
+    letter-spacing: 1.5px;
     padding: 7px 35px !important ;
     border: 1px solid black !important;
 
@@ -99,7 +100,7 @@ a:hover{
     font-family: 'Noto Serif', serif;
 }
 
-#three-section, #four-section {
+#three-section, #four-section, #five-section{
     margin-top: 270px;
 }
 
@@ -173,6 +174,129 @@ a:hover{
     
 
  
+}
+
+#text-girl-jacket{
+    padding-left: 44px;
+    margin-top: 150px;
+}
+
+
+
+#text-girl-6{
+    padding-left: 80px ;
+    margin-top: 100px;
+}
+
+
+
+#img-7{
+    height: 520px;
+    border-image-width: 400px;
+}
+
+#five-section{
+    margin-top: 90px !important;
+    height: 400px;
+    margin: 0 auto ;
+    background-color: #edd5b6;
+    width: 66%;
+}
+
+
+#five-section h1, h4{
+    font-family: 'Noto Serif', serif;
+}
+
+#five-section h1{
+    font-size: 45px;
+    font-weight: 300;
+}
+
+#container-img-7{
+    padding-left: 35px;
+    padding-top: 65px;
+    
+}
+
+#container-text-7{
+    margin-left: 38px;
+    padding-top: 165px ;
+}
+
+#show-more-7{
+    margin-top: 10px;
+}
+
+
+#six-section{
+    background-color: #edd5b6;
+    margin-top: 215px;
+} 
+
+#six-section h2{
+    padding-top: 125px;
+    margin-bottom: 25px;
+    font-family: 'Noto Serif', serif;
+}
+
+#six-section p{
+   margin-bottom: 30px;
+}
+
+.input-subscribe{
+    width: 230px;
+    margin-right: 11px;
+    font-family: 'PT Sans', sans-serif !important;
+    padding: 10px;
+    color: #51241c;
+    background-color: #edd5b6;
+    border-radius: 3px;
+    border: 1px solid #3b1919;
+}
+
+input::placeholder{
+    color:#928371 ;
+}
+
+input[type="submit"]{
+
+    margin: 2px;
+    outline: none;
+    border: none;
+    font-family: 'PT Sans', sans-serif;
+    color: #f4fbff;
+    background-color: #212121;
+    padding: 11px 30px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 12px;
+
+}
+
+#newsletter{
+    padding-left:49px;
+}
+
+#container-img-folha{
+    margin-right: 30px;
+}
+
+#footer-page{
+    padding: 60px 60px;
+    background-color: #333333;
+
+}
+
+
+#footer-page h2{
+    color: #ffffff;
+    font-family: 'Noto Serif', serif;
+}
+
+#footer-page p{
+    color: #ffffff;
+    font-family: 'PT Sans', sans-serif;
 }
 
 
